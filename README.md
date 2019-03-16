@@ -1,2 +1,4 @@
 # termux-meta-fix
-Fix metasploit nokogori installed error 2019
+Исправлена ошибка, связанная с метасплоитом нокогори 2019
+chmod + xfix
+./fix
